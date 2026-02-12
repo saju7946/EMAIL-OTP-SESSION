@@ -17,7 +17,7 @@ Make sure you have the following installed:
 
 ```bash
 git clone https://github.com/saju7946/EMAIL-OTP-SESSION.git
-cd email-otp-session
+cd EMAIL-OTP-SESSION
 ```
 
 ---
